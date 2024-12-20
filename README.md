@@ -1,4 +1,4 @@
-# Bookstore Management System
+# Media Management System
 
 ## Overview
 A robust terminal-based application built in C# for comprehensive bookstore inventory management. The system provides a streamlined interface for managing books, CDs, and DVDs through essential CRUD operations (Create, Read, Update, Delete). It employs LINQ for powerful data querying and manipulation capabilities.
